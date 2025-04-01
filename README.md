@@ -10,5 +10,3 @@ Este proyecto permite sumar dos matrices ingresadas por el usuario. Hay dos vers
 3. Abre `index.html` con Live Server o en un navegador.
 4. Ingresa las dimensiones de las matrices y presiona "Generar Matrices".
 5. Llena los valores y presiona "Sumar Matrices" para ver el resultado.
-  
-6. Ingresa las dimensiones, llena los valores y presiona "Sumar Matrices" para obtener el resultado.
